@@ -8,6 +8,5 @@ Articles:
 5. Vanishing of Brauer groups of moduli stacks of stable curves, joint work with Kazuhiro Ito,
 6. Close fields, affine Springer fibers and fundamental lemmas, joint work with Kazuhiro Ito,
 7. Intersection numbers in families of close fields, joint work with Andreas Mihatsch,
-8. Motivic version of Bando's equivalence, joint work with Rizacan Ciloglu,
-9. Sheared G-mu-displays and Rapoport-Zink spaces
+8. Motivic version of Bando's equivalence, joint work with Rizacan Ciloglu (in progress)
 

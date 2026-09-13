@@ -1,7 +1,7 @@
-Sebastian Bartling
-
 Universität Duisburg-Essen, Postdoc
+
 E-Mail: Sebastian.bartling 'at' uni-due 'dot' de
+
 Area: Arithmetic geometry, p-adic Hodge theory, moduli spaces
 
 Articles:

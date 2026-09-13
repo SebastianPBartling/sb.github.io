@@ -17,4 +17,4 @@ Articles:
 Notes:
 Notes for a course on prismatic cohomology, <a href="https://www.dropbox.com/scl/fi/c1wm2rhs8y1937n7l32r3/Notes_lectures_Prismatic.pdf?rlkey=yyuyhv20gpetn894ydvu0ir5h&e=1&st=gajy0qot&dl=0">pdf</a>
 
-Co-authors: Manuel Hoff, Kazuhiro Ito, Andreas Mihatsch, Rizacan &Ccedil;ilo&#287;lu
+Co-authors: <a href="https://makoba.gitlab.io">Manuel Hoff</a>, <a href="http://www.math.tohoku.ac.jp/english/people/ito-e.html">Kazuhiro Ito</a>, <a href="https://amihatsch.github.io">Andreas Mihatsch</a>, <a href="https://rizacanciloglu.com">Rizacan &Ccedil;ilo&#287;lu</a>

@@ -4,7 +4,7 @@ E-Mail: Sebastian.bartling 'at' uni-due 'dot' de
 
 Area: Arithmetic geometry, p-adic Hodge theory, moduli spaces
 
-<img src="{{ site.baseurl }}/bartling-square.jpg" alt="Sebastian Bartling"
+<img src="{{/sb.github.io}}/bartling-square.jpg" alt="Sebastian Bartling"
      width="200" style="float: right; margin: 0 0 1em 1.5em; border-radius: 6px;">
 
 Articles:

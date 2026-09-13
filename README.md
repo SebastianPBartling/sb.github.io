@@ -5,8 +5,8 @@ Articles:
 4. Moduli of nilpotent displays, joint work with Manuel Hoff, <a href="https://arxiv.org/abs/2404.10132">arxiv</a>,
 5. Vanishing of Brauer groups of moduli stacks of stable curves, joint work with Kazuhiro Ito,  <a href="https://arxiv.org/abs/2412.20435">arxiv</a>,
 6. Close fields, affine Springer fibers and fundamental lemmas, joint work with Kazuhiro Ito, <a href="https://arxiv.org/abs/2603.18574">arxiv</a>,
-7. Parahoric motivic Hecke categories in equal and mixed characteristic, joint work with Rizacan \c{C}ilo\u{g}lu, <a href="https://arxiv.org/abs/2609.05123">arxiv</a>
-8. Intersection numbers in families of close fields, joint work with Andreas Mihatsch, <a href="https://www.dropbox.com/scl/fi/mn0kgupunlz2c1sbfuvbg/Andreas_Me_website_version.pdf?rlkey=viygf8uuas7p7crtyitug1xsm&st=l3ka5pv8&dl=0">pdf</a>
+7. Parahoric motivic Hecke categories in equal and mixed characteristic, joint work with Rizacan &Ccedil;ilo&#287;lu, <a href="https://arxiv.org/abs/2609.05123">arxiv</a>
+8. Intersection theory in profinite families of Rapoport--Zink spaces, joint work with Andreas Mihatsch, <a href="https://www.dropbox.com/scl/fi/wgjt64qtn4xgp2h5km8ye/Andreas_Me_website_2.pdf?rlkey=8znriqapeb1tg6a9woi7e9qdx&st=9u8cttoz&dl=0">pdf</a>
 
 Notes:
 Notes for a course on prismatic cohomology, <a href="https://www.dropbox.com/scl/fi/c1wm2rhs8y1937n7l32r3/Notes_lectures_Prismatic.pdf?rlkey=yyuyhv20gpetn894ydvu0ir5h&e=1&st=gajy0qot&dl=0">pdf</a>

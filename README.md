@@ -1,5 +1,3 @@
-# sb.github.io
-
 Articles:
 1. G-mu displays and local shtuka, <a href="https://arxiv.org/abs/2206.13194">arxiv</a>,
 2. Sur la cohomologie étale de la courbe de Fargues-Fontaine  <a href="https://arxiv.org/abs/2206.14253">arxiv</a>,
@@ -7,8 +5,8 @@ Articles:
 4. Moduli of nilpotent displays, joint work with Manuel Hoff, <a href="https://arxiv.org/abs/2404.10132">arxiv</a>,
 5. Vanishing of Brauer groups of moduli stacks of stable curves, joint work with Kazuhiro Ito,  <a href="https://arxiv.org/abs/2412.20435">arxiv</a>,
 6. Close fields, affine Springer fibers and fundamental lemmas, joint work with Kazuhiro Ito, <a href="https://arxiv.org/abs/2603.18574">arxiv</a>,
-7. Intersection numbers in families of close fields, joint work with Andreas Mihatsch, <a href="https://www.dropbox.com/scl/fi/mn0kgupunlz2c1sbfuvbg/Andreas_Me_website_version.pdf?rlkey=viygf8uuas7p7crtyitug1xsm&st=l3ka5pv8&dl=0">pdf</a>
-8. Motivic version of Bando's equivalence, joint work with Rizacan Ciloglu <a href="https://www.dropbox.com/scl/fi/hp3mn5pnhh5ztp7bxkzig/bando-5.pdf?rlkey=uoxquvhae9je83pgao83vxfch&st=42cln7xs&dl=0">pdf</a>
+7. Parahoric motivic Hecke categories in equal and mixed characteristic, joint work with Rizacan \c{C}ilo\u{g}lu, <a href="https://arxiv.org/abs/2609.05123">arxiv</a>
+8. Intersection numbers in families of close fields, joint work with Andreas Mihatsch, <a href="https://www.dropbox.com/scl/fi/mn0kgupunlz2c1sbfuvbg/Andreas_Me_website_version.pdf?rlkey=viygf8uuas7p7crtyitug1xsm&st=l3ka5pv8&dl=0">pdf</a>
 
 Notes:
 Notes for a course on prismatic cohomology, <a href="https://www.dropbox.com/scl/fi/c1wm2rhs8y1937n7l32r3/Notes_lectures_Prismatic.pdf?rlkey=yyuyhv20gpetn894ydvu0ir5h&e=1&st=gajy0qot&dl=0">pdf</a>

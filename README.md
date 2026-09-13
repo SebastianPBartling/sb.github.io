@@ -1,3 +1,9 @@
+Sebastian Bartling
+
+Universität Duisburg-Essen, Postdoc
+E-Mail: Sebastian.bartling 'at' uni-due 'dot' de
+Area: Arithmetic geometry, p-adic Hodge theory, moduli spaces
+
 Articles:
 1. G-mu displays and local shtuka, <a href="https://arxiv.org/abs/2206.13194">arxiv</a>,
 2. Sur la cohomologie étale de la courbe de Fargues-Fontaine  <a href="https://arxiv.org/abs/2206.14253">arxiv</a>,
@@ -10,3 +16,5 @@ Articles:
 
 Notes:
 Notes for a course on prismatic cohomology, <a href="https://www.dropbox.com/scl/fi/c1wm2rhs8y1937n7l32r3/Notes_lectures_Prismatic.pdf?rlkey=yyuyhv20gpetn894ydvu0ir5h&e=1&st=gajy0qot&dl=0">pdf</a>
+
+Co-authors: Manuel Hoff, Kazuhiro Ito, Andreas Mihatsch, Rizacan &Ccedil;ilo&#287;lu

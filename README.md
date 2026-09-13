@@ -1,11 +1,11 @@
+<img src="/sb.github.io/bartling-square.jpg" alt="Sebastian Bartling"
+     width="200" style="float: right; margin: 0 0 1em 1.5em; border-radius: 6px;">
+
 Universität Duisburg-Essen, Postdoc
 
 E-Mail: Sebastian.bartling 'at' uni-due 'dot' de
 
 Area: Arithmetic geometry, p-adic Hodge theory, moduli spaces
-
-<img src="/sb.github.io/bartling-square.jpg" alt="Sebastian Bartling"
-     width="200" style="float: right; margin: 0 0 1em 1.5em; border-radius: 6px;">
 
 Articles:
 1. G-mu displays and local shtuka, <a href="https://arxiv.org/abs/2206.13194">arxiv</a>,

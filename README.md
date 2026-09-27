@@ -3,7 +3,9 @@
 
 Universität Duisburg-Essen, Postdoc
 
-E-Mail: Sebastian.bartling 'at' uni-due 'dot' de
+E-Mail: Sebastian.bartling 'at' uni-due 'dot' de,
+
+[CV](CV_Bewerbungen-3.pdf)
 
 Area: Arithmetic geometry, p-adic Hodge theory, moduli spaces
 
